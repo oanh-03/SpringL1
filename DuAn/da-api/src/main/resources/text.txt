@@ -1,0 +1,7 @@
+-------
+6 Phút Để Hiểu Rõ Về Dependency Injection
+Những dự án với độ phức tạp cao ngoài việc thiết kế tính năng cho ứng dụng, tổ chức code luôn luôn là vấn đề được đặt lên hàng đầu. Tổ chức tốt giúp lập trình viên dễ dàng bảo trì, cũng như mở rộng code về sau.
+
+Để có thể tiết kiệm chi phí và thời gian cho công đoạn này nhưng vẫn đem lại hiệu quả cao, việc nắm vững về các design pattern sẽ giúp ích rất nhiều. Dependency Injection là một dạng design pattern được thiết kế với mục đích ngăn chặn sự phụ thuộc giữa các class, để khiến cho code dễ hiểu hơn, trực quan hơn, nhằm phục vụ cho mục đích bảo trì và nâng cấp code.
+
+Tuy nhiên nếu sau khi đọc xong thuật ngữ trên bạn vẫn chưa hiểu gì thì hãy coi đây là chuyện bình thường vì các định nghĩa về một design pattern thường khá trừu tượng (abstract) mà không đi vào cụ thể. Việc đi sử dụng Dependency Injection như thế nào sẽ phụ thuộc vào cách triển khai trong từng tình huống cụ thể (cũng như kỹ năng lập trình của developer).
